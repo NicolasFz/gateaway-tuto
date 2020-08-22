@@ -1,2 +1,2 @@
-# gateaway-tuto
-Tutorial for a simple http to websocket gateaway
+# gateway-tuto
+Tutorial for a simple http to websocket gateway
